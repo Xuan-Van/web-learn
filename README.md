@@ -4,7 +4,9 @@
 
 ## 项目结构
 
+```tree
 WebLearning # 根目录  
 ├─images # 存储图片  
 ├─scripts # 存储 .css 文件  
 └─styles # 存储 .js 文件  
+```
