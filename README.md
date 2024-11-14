@@ -1,6 +1,6 @@
 # 从零学习 Web 开发
 
-简单实现一些热门教程：[学习 Web 开发](https://developer.mozilla.org/zh-CN/docs/Learn)。
+简单实现入门教程：[Web 入门](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web)。  
 
 ## 项目结构
 
