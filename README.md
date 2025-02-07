@@ -10,5 +10,3 @@ Xuan-Van.github.io # 根目录
 ├─scripts # 存储.css文件  
 └─styles # 存储.js文件  
 ```
-
-## [在线浏览](https://xuan-van.github.io)
